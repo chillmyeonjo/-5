@@ -1,3 +1,4 @@
+'gffththk'
 from random import randint
 
 
